@@ -36,8 +36,6 @@ print("Swapped values are:",x,y)
 ```
 ![python](Swap.png)
 
-/home/sec/Templates/Swapping-two-values/Swap.png
-### Swapping of two values
 
 ```
 

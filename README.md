@@ -34,7 +34,6 @@ print("Swapped values are:",x,y)
 ```
 ## Output:
 ```
-![python](Swap.png)
 
 
 ```

@@ -33,17 +33,15 @@ print("Swapped values are:",x,y)
 
 ```
 ## Output:
-```
+
 ![swap](https://user-images.githubusercontent.com/119559844/215276149-5943fa35-09d9-49cf-b3a3-1222e74cec9a.png)
 
 
-```
 
 
 ## RESULT:
-```
+
 Thus the swapping of two values are successfully executed
-```
 
 
 
